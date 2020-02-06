@@ -1,8 +1,12 @@
 <<<<<<< HEAD
 Git is good
+<<<<<<< HEAD
 Github is awesome
 This is a custom third line
 For committing
 =======
 Git is good
 >>>>>>> parent of 93fdb48... third commit
+=======
+Github is awesome
+>>>>>>> parent of fc33ddc... question 4 commit
