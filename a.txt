@@ -1,2 +1,4 @@
 Git is good
 Github is awesome
+This is a custom third line
+For committing
